@@ -96,6 +96,7 @@ module.exports.forms            = forms;
 module.exports.ordinal          = ordinal;
 module.exports.ordinal.indexOf  = o_indexOf;
 module.exports.ordinal.forms    = o_forms;
+module.exports.default = plural;
 
 
 ////////////////////////////////////////////////////////////////////////////////
